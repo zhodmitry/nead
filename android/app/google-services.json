@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "650028763345",
+    "firebase_url": "https://dictionaryapp-40054.firebaseio.com",
+    "project_id": "dictionaryapp-40054",
+    "storage_bucket": "dictionaryapp-40054.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650028763345:android:7a1dd543d93f51c3",
+        "android_client_info": {
+          "package_name": "com.zkoapp.notexactly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650028763345-8b40elpi3crj3bfjrjg0i8deadgso67m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzUr9A77SgiLkPvasfVgYb3doAGKwoN04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650028763345-8b40elpi3crj3bfjrjg0i8deadgso67m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
